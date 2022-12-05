@@ -1,0 +1,5 @@
+Preprocessing yang dilakukan:
+
+1. Data Validation
+2. Data Integration and Transformation
+3. Data Size Reduction and Discretization
